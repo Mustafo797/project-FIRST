@@ -58,7 +58,7 @@ ul{
     transition: .5s;
 }
 .header__title:hover{
-    transform: scale(1.2) translateY();
+    transform: scale(1.2) translateY(20px);
 }
 .header__title:hover .header__text{
     transform: scale(0.1);
