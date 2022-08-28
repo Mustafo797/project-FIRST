@@ -38,4 +38,21 @@ ul{
     color: #fff;
     font-size: 24px;
 }
+.content__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.header__title{
+    font-size: 60px;
+    color: #fff;
+    text-transform: uppercase;
+    margin-top: 20%;
+}
+.header__text{
+    font-size: 40px;
+    font-weight: 400;
+    color: #fff;
+}
 /* header end */
